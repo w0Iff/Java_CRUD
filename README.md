@@ -4,4 +4,4 @@
 - Backend Spring Boot;
 - Baza H2; 
 - Walidacja danych (brak specjalnych znaków);
-- TestJUnit (SpringBoot);
+- Test JUnit (SpringBoot);
